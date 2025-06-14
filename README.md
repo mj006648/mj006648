@@ -1,6 +1,5 @@
-## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=200&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=200&section=header&text=Chang%20Hyeon's%20GitHub)
 
 <!--
 **mj006648/mj006648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
