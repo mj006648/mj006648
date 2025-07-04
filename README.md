@@ -4,7 +4,7 @@
 - **Affiliation:** [GIST AI Graduate School](https://ai.gist.ac.kr/ai/), [NetAI Lab](https://netai.smartx.kr/)
 - **Major:** Computer Science
 - **Research:** Developing cloud-native data lakehouse orchestration platforms for AI, HPC, and HPDA workloads
-- **Resume:** [Changhyeon's Resume.pdf](./Changhyeon%27s%20Resume.pdf)
+- **Resume:** [Changhyeon's Resume.pdf](./cv.pdf)
 ---
 
 
