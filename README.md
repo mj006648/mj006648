@@ -4,7 +4,9 @@
 - **Affiliation:** Master’s student at GIST AI Graduate School, NetAI Lab
 - **Major:** Computer Science
 - **Research:** Developing cloud-native data lakehouse orchestration platforms for AI, HPC, and HPDA workloads
+- **[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Changhyeon_Im_Resume.pdf)**
 
+  
 ### 🛠️ **Tech Stack**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
