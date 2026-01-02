@@ -17,4 +17,4 @@
 
 ---
 
-[![Changhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj006648&theme=holi&show_icons=true)](https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true)
+[![Changhyeon's GitHub stats](https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true)](https://github.com/mj006648)
