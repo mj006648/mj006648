@@ -5,6 +5,8 @@
 - **Major:** Computer Science
 - **Research:** Developing cloud-native data lakehouse orchestration platforms for AI, HPC, and HPDA workloads
 - **Resume:** [Changhyeon's Resume.pdf](./cv.pdf)
+- **Docker Hub:** [hub.docker.com/u/ich6648](https://hub.docker.com/u/ich6648)
+- **Publications:** [DBpia author profile](https://www.dbpia.co.kr/author/authorDetail?ancId=108338721)
 ---
 
 
