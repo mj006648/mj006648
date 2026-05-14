@@ -14,9 +14,18 @@
 ###  **Tech Stack**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Kyverno-3670A0?style=for-the-badge&logo=kyverno&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Iceberg-1E90FF?style=for-the-badge&logo=apache&logoColor=white">
 
-<img src="https://img.shields.io/badge/Apache%20Iceberg-1E90FF?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Project%20Nessie-4B8BBE?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Polaris-0B5CAD?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./assets/tech-icons/kyverno.svg" height="32" alt="Kyverno"><br><sub>Kyverno</sub></td>
+    <td align="center" width="96"><img src="./assets/tech-icons/nessie.svg" height="32" alt="Project Nessie"><br><sub>Project Nessie</sub></td>
+    <td align="center" width="96"><img src="./assets/tech-icons/polaris.svg" height="32" alt="Apache Polaris"><br><sub>Apache Polaris</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" alt="Trino"></td>
+    <td align="center"><img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Omniverse"></td>
+  </tr>
+</table>
 
 
 ---
