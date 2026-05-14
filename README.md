@@ -9,6 +9,9 @@
 - **Publications:** [DBpia author profile](https://www.dbpia.co.kr/author/authorDetail?ancId=108338721)
 ---
 
+[![Changhyeon's GitHub stats](https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true)](https://github.com/mj006648)
+
+---
 
   
 ###  **Tech Stack**
@@ -21,8 +24,3 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-
-
----
-
-[![Changhyeon's GitHub stats](https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true)](https://github.com/mj006648)
