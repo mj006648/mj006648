@@ -1,7 +1,6 @@
 #  Welcome! Glad You're Here
 
 ##  **About Me**
----
 - **Name:** Changhyeon Im
 - **Affiliation:** [GIST AI Graduate School](https://ai.gist.ac.kr/ai/), [NetAI Lab](https://netai.smartx.kr/)
 - **Major:** Computer Science
@@ -11,13 +10,11 @@
 - **Publications:** [DBpia author profile](https://www.dbpia.co.kr/author/authorDetail?ancId=108338721)
 
 ##  **Stats**
----
 <a href="https://github.com/mj006648">
   <img src="https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true&card_width=400&cache_seconds=1800&count_private=true&include_all_commits=true" width="400" alt="Changhyeon's GitHub stats" />
 </a>
 
 ##  **Tech Stack**
----
 **Cloud Native**
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white"> <img src="https://img.shields.io/badge/Kyverno-3670A0?style=for-the-badge"> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
