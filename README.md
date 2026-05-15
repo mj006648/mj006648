@@ -14,6 +14,12 @@
   <img src="https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true&card_width=400&cache_seconds=1800&count_private=true&include_all_commits=true" width="400" alt="Changhyeon's GitHub stats" />
 </a>
 
+
+##  **Achievements**
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mj006648&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Changhyeon's trophies" />
+</a>
+
 ##  **Tech Stack**
 **Cloud-Native**
 
