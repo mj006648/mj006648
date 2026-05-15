@@ -4,7 +4,7 @@
 - **Name:** Changhyeon Im
 - **Affiliation:** [GIST AI Graduate School](https://ai.gist.ac.kr/ai/), [NetAI Lab](https://netai.smartx.kr/)
 - **Major:** Computer Science
-- **Research:** Developing cloud-native data lakehouse orchestration platforms for AI, HPC, and HPDA workloads
+- **Research:** Developing open-source-based cloud-native data lakehouse orchestration frameworks for HPC, M&S, AI, and HPDA workloads
 - **Resume:** [Changhyeon's Resume.pdf](./cv.pdf)
 - **Docker Hub:** [hub.docker.com/u/ich6648](https://hub.docker.com/u/ich6648)
 - **Publications:** [DBpia author profile](https://www.dbpia.co.kr/author/authorDetail?ancId=108338721)
