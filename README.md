@@ -15,11 +15,6 @@
 </a>
 
 
-##  **Achievements**
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mj006648&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Changhyeon's trophies" />
-</a>
-
 ##  **Tech Stack**
 **Cloud-Native**
 
