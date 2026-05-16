@@ -14,11 +14,6 @@
   <img src="https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true&card_width=400&cache_seconds=1800&count_private=true&include_all_commits=true" width="400" alt="Changhyeon's GitHub stats" />
 </a>
 
-##  **OSS Contributions**
-- **Apache Polaris:** [#4451](https://github.com/apache/polaris/pull/4451) adds production configuration docs for AWS S3 and Azure Blob storage; currently under maintainer review with CI passing.
-- **Project Nessie:** [#12424](https://github.com/projectnessie/nessie/pull/12424) updates outdated cloud object store consistency wording; approved by a maintainer with CI passing.
-- **Project Nessie:** [#12425](https://github.com/projectnessie/nessie/pull/12425) adds `--plain` / `-P` aliases for CLI non-ANSI output; under review for stdout/terminal behavior refinement.
-
 ##  **Tech Stack**
 **Cloud-Native**
 
