@@ -34,9 +34,3 @@
 **Backend & Ops**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-##  **Open Source Contributions**
-- **Apache Polaris:** [PR #4451](https://github.com/apache/polaris/pull/4451) — added production S3/Azure storage configuration docs; CI green and under maintainer review.
-- **Project Nessie:** [PR #12424](https://github.com/projectnessie/nessie/pull/12424) — updated outdated cloud object-storage consistency wording; approved by a maintainer with CI green.
-- **Project Nessie:** [PR #12425](https://github.com/projectnessie/nessie/pull/12425) — improved CLI discoverability with `--plain` / `-P`; under review for follow-up stdout/PTY refinement.
-- **Kubeflow Spark Operator:** [Issue #2924](https://github.com/kubeflow/spark-operator/issues/2924) — investigated `emptyDir.medium` forwarding behavior; issue closed as completed.
