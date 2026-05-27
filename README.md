@@ -14,6 +14,17 @@
   <img src="https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true&card_width=400&cache_seconds=1800&count_private=true&include_all_commits=true" width="400" alt="Changhyeon's GitHub stats" />
 </a>
 
+##  **Open Source**
+
+Contributing to the Apache lakehouse stack — committer track focus.
+
+<a href="https://github.com/apache/polaris/pulls?q=author%3Amj006648"><img src="https://img.shields.io/badge/Apache-Polaris-0B5CAD?style=for-the-badge&logo=apache&logoColor=white"></a>
+<a href="https://github.com/projectnessie/nessie/pulls?q=author%3Amj006648"><img src="https://img.shields.io/badge/Project-Nessie-4B8BBE?style=for-the-badge"></a>
+<a href="https://github.com/apache/iceberg/pulls?q=author%3Amj006648"><img src="https://img.shields.io/badge/Apache-Iceberg-1E90FF?style=for-the-badge&logo=apache&logoColor=white"></a>
+<a href="https://github.com/apache/iceberg-python/pulls?q=author%3Amj006648"><img src="https://img.shields.io/badge/Apache-PyIceberg-FFCA28?style=for-the-badge&logo=apache&logoColor=white"></a>
+
+Full tracker: **[oss-contributions](https://github.com/mj006648/oss-contributions)**
+
 ##  **Tech Stack**
 **Cloud-Native**
 
