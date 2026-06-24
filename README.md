@@ -20,8 +20,7 @@ Contributing to the Apache lakehouse stack — committer track focus.
 
 - [**Project Nessie**](https://github.com/projectnessie/nessie/pulls?q=author%3Amj006648) — Git-style catalog
 - [**Apache Polaris**](https://github.com/apache/polaris/pulls?q=author%3Amj006648) — REST catalog
-- [**Apache Iceberg**](https://github.com/apache/iceberg/pulls?q=author%3Amj006648) — Open table format
-- [**PyIceberg**](https://github.com/apache/iceberg-python/pulls?q=author%3Amj006648) — Iceberg Python implementation
+- **Apache Iceberg** ([core](https://github.com/apache/iceberg/pulls?q=author%3Amj006648), [python](https://github.com/apache/iceberg-python/pulls?q=author%3Amj006648)) — Open table format and Python implementation
 - [**Kubernetes SIGs**](https://github.com/pulls?q=org%3Akubernetes-sigs+author%3Amj006648) — Cloud-native controllers
 
 Full tracker: **[oss-contributions](https://github.com/mj006648/oss-contributions)**
