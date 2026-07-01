@@ -11,7 +11,7 @@
 
 ##  **Stats**
 <a href="https://github.com/mj006648">
-  <img src="https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true&card_width=400&cache_seconds=1800&count_private=true&include_all_commits=true&v=20260624" width="400" alt="Changhyeon's GitHub stats" />
+  <img src="https://github-readme-stats2-eosin.vercel.app/api?username=mj006648&theme=holi&show_icons=true&card_width=400&cache_seconds=1800&count_private=true&include_all_commits=true&v=20260701" width="400" alt="Changhyeon's GitHub stats" />
 </a>
 
 ##  **Open Source Contribution**
