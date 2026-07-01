@@ -3,7 +3,7 @@
 ##  **About Me**
 - **Name:** Changhyeon Im
 - **Affiliation:** [GIST AI Graduate School](https://ai.gist.ac.kr/ai/), [NetAI Lab](https://netai.smartx.kr/)
-- **Major:** Computer Science
+- **Major:** Computer Science (B.S.) · Artificial Intelligence (M.S.)
 - **Research:** Developing open-source-based cloud-native data lakehouse orchestration frameworks for HPC, M&S, AI, and HPDA workloads
 - **Resume:** [Changhyeon's Resume.pdf](./cv.pdf)
 - **Docker Hub:** [hub.docker.com/u/ich6648](https://hub.docker.com/u/ich6648)
